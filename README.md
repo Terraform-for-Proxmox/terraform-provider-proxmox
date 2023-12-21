@@ -1,6 +1,8 @@
-[![Build Status](https://travis-ci.com/Telmate/terraform-provider-proxmox.svg?branch=master)](https://travis-ci.com/Telmate/terraform-provider-proxmox)
+[![Build Status](https://travis-ci.com/Terraform-for-Proxmox/terraform-provider-proxmox.svg?branch=master)](https://travis-ci.com/Terraform-for-Proxmox/terraform-provider-proxmox)
 
 # Terraform provider plugin for Proxmox
+
+This is a fork of https://github.com/Telmate/terraform-provider-proxmox which is no longer maintained by the company.
 
 This repository provides a Terraform provider for
 the [Proxmox virtualization platform](https://pve.proxmox.com/pve-docs/) and exposes Terraform resources to provision
@@ -48,4 +50,4 @@ see: [Debugger-Based Debugging](https://www.terraform.io/docs/extend/debugging.h
 * [Proxmox documentation](https://pve.proxmox.com/pve-docs/)
 * [Terraform](https://www.terraform.io/)
 * [Terraform documentation](https://www.terraform.io/docs/index.html)
-* [Recommended ISO builder](https://github.com/Telmate/terraform-ubuntu-proxmox-iso)
+

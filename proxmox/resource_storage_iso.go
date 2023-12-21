@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/Telmate/proxmox-api-go/proxmox"
+	"github.com/Terraform-for-Proxmox/proxmox-api-go/proxmox"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 )
 
